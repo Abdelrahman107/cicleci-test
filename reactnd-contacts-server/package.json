@@ -1,4 +1,6 @@
 {
+  
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
     "clone": "^2.1.2",
